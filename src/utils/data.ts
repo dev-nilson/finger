@@ -230,4 +230,10 @@ export const womenCharacter = [
     url: "../assets/characters/women/elle.png",
     bio: "I'm a Harvard Law graduate, but don't worry, I won't judge you for not being as smart as me. Just kidding, I'm not that kind of lawyer. Looking for someone who can appreciate my passion for justice and my ability to look fabulous in any situation.",
   },
+  {
+    id: 18,
+    name: "Mystique ",
+    url: "../assets/characters/women/mystique.png",
+    bio: "Not gonna lie, my shape-shifting abilities make me a master of disguise. But don't worry, I'm not going to turn into your ex or anything.",
+  },
 ];
