@@ -113,6 +113,12 @@ export const menCharacters = [
     url: "../assets/characters/men/lasso.png",
     bio: "American football coach turned British soccer coach. I believe in the power of positivity, teamwork, and a good cup of tea.",
   },
+  {
+    id: 19,
+    name: "Ted",
+    url: "../assets/characters/men/ted.png",
+    bio: "Not looking for anything serious. Just want to have some fun and see where things go.",
+  },
 ];
 
 export const womenCharacter = [
