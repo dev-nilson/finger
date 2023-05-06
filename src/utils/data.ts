@@ -110,7 +110,7 @@ export const menCharacters = [
   {
     id: 18,
     name: "Theodore Lasso",
-    url: "../assets/characters/men/ted.png",
+    url: "../assets/characters/men/lasso.png",
     bio: "American football coach turned British soccer coach. I believe in the power of positivity, teamwork, and a good cup of tea.",
   },
 ];
