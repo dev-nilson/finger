@@ -119,6 +119,12 @@ export const menCharacters = [
     url: "../assets/characters/men/ted.png",
     bio: "Not looking for anything serious. Just want to have some fun and see where things go.",
   },
+  {
+    id: 19,
+    name: "Dominic Toretto",
+    url: "../assets/characters/men/toretto.png",
+    bio: "",
+  },
 ];
 
 export const womenCharacter = [
