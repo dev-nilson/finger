@@ -238,8 +238,14 @@ export const womenCharacter = [
   },
   {
     id: 18,
-    name: "Mystique ",
+    name: "Mystique",
     url: "../assets/characters/women/mystique.png",
     bio: "Not gonna lie, my shape-shifting abilities make me a master of disguise. But don't worry, I'm not going to turn into your ex or anything.",
+  },
+  {
+    id: 19,
+    name: "Rachel Green",
+    url: "../assets/characters/women/rachel.png",
+    bio: "",
   },
 ];
