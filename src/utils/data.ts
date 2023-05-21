@@ -123,7 +123,7 @@ export const menCharacters = [
     id: 19,
     name: "Dominic Toretto",
     url: "../assets/characters/men/toretto.png",
-    bio: "",
+    bio: "Family first, always. Searching for a partner who can appreciate my unique talent for fixing cars and breaking hearts.",
   },
 ];
 
