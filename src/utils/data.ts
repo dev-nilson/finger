@@ -246,6 +246,6 @@ export const womenCharacter = [
     id: 19,
     name: "Rachel Green",
     url: "../assets/characters/women/rachel.png",
-    bio: "",
+    bio: "Looking for my lobster in this vast dating ocean. Must love shopping and fashion",
   },
 ];
