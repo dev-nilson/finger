@@ -125,6 +125,12 @@ export const menCharacters = [
     url: "../assets/characters/men/toretto.png",
     bio: "Family first, always. Searching for a partner who can appreciate my unique talent for fixing cars and breaking hearts.",
   },
+  {
+    id: 20,
+    name: "Vito Corleone",
+    url: "../assets/characters/men/vito.png",
+    bio: "",
+  },
 ];
 
 export const womenCharacter = [
